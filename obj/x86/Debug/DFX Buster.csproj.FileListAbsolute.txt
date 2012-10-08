@@ -1,0 +1,9 @@
+c:\users\rparikh\documents\visual studio 2010\Projects\DFX Buster\DFX Buster\bin\Debug\DFX Buster.exe
+c:\users\rparikh\documents\visual studio 2010\Projects\DFX Buster\DFX Buster\bin\Debug\DFX Buster.pdb
+c:\users\rparikh\documents\visual studio 2010\Projects\DFX Buster\DFX Buster\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rparikh\documents\visual studio 2010\Projects\DFX Buster\DFX Buster\obj\x86\Debug\DFX_Buster.FrmDFX_Buster.resources
+c:\users\rparikh\documents\visual studio 2010\Projects\DFX Buster\DFX Buster\obj\x86\Debug\DFX_Buster.Properties.Resources.resources
+c:\users\rparikh\documents\visual studio 2010\Projects\DFX Buster\DFX Buster\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\rparikh\documents\visual studio 2010\Projects\DFX Buster\DFX Buster\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\rparikh\documents\visual studio 2010\Projects\DFX Buster\DFX Buster\obj\x86\Debug\DFX Buster.exe
+c:\users\rparikh\documents\visual studio 2010\Projects\DFX Buster\DFX Buster\obj\x86\Debug\DFX Buster.pdb
